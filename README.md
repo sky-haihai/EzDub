@@ -63,7 +63,7 @@ If FFmpeg is installed, this will display its version.
 1. Place the audio or video file you want to process in the `file` folder.
 2. Run the Python script.
    ```bash
-   python <script_name>.py
+   python main.py
    ```
 3. The script will:
    - Locate the first audio or video file in the `file` folder.
